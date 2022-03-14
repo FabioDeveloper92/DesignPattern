@@ -6,9 +6,9 @@ namespace FactoryMethod.ConcreteCreator
 {
     public class CatCreator : PetCreator
     {
-        public override IPet Create(string name)
+        public override IPet Create()
         {
-            return new Cat(name);
+            return new Cat();
         }
     }
 }

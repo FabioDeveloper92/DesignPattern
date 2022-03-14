@@ -4,6 +4,6 @@ namespace FactoryMethod.Creator
 {
     public abstract class PetCreator
     {
-        public abstract IPet Create(string name);
+        public abstract IPet Create();
     }
 }
