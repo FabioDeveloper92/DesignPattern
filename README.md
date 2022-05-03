@@ -9,3 +9,4 @@ In this repository, I'll share different design pattern.
 
 ## Structural
 - Adapter
+- Bridge
