@@ -13,3 +13,4 @@ In this repository, I'll share different design pattern.
 
 ## Behavioral
 - Chain of Responsibility [GitHub Pages](https://github.com/FabioDeveloper92/DesignPattern/tree/main/ChainOfResponsability)
+- Command [GitHub Pages](https://github.com/FabioDeveloper92/DesignPattern/tree/main/CommandPattern)
