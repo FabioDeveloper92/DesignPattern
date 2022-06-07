@@ -3,10 +3,13 @@
 In this repository, I'll share different design pattern.
 
 ## Creational
-- Abstract Factory
-- Factory Method
+- Abstract Factory [GitHub Pages](https://github.com/FabioDeveloper92/DesignPattern/tree/main/AbstractFactory)
+- Factory Method [GitHub Pages](https://github.com/FabioDeveloper92/DesignPattern/tree/main/FactoryMethod)
 
 
 ## Structural
-- Adapter
-- Bridge
+- Adapter [GitHub Pages](https://github.com/FabioDeveloper92/DesignPattern/tree/main/AdapterPattern)
+- Bridge [GitHub Pages](https://github.com/FabioDeveloper92/DesignPattern/tree/main/BridgePattern)
+
+## Behavioral
+- Chain of Responsibility [GitHub Pages](https://github.com/FabioDeveloper92/DesignPattern/tree/main/ChainOfResponsability)
