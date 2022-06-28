@@ -18,6 +18,8 @@ namespace CommandPattern
 
             button.TurnOn();
             button.TurnOff();
+
+            Console.WriteLine(Membership.GeneratePassword(10, 0));
         }
     }
 }
