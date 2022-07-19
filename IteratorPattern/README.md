@@ -1,24 +1,24 @@
 # Iterator Pattern
 
-It's a behavioral design pattern that an iterator is used to traverse a container and access the container's elements.
+It's a behavioral design pattern that an iterator is used to traverse a container and access the container's elements
 
 ## Problem
 
-This pattern solves various problems related to access and navigation through the elements.
+This pattern solves various problems related to access and navigation through the elements
 
-In particular of a containing data structure, without exposing the details of the implementation and the internal structure of the container.
+In particular of a containing data structure, without exposing the details of the implementation and the internal structure of the container
 
 ## Solutions
 
-The idea is to have a container that contains other objects inside.
-A container is associated with an iterator that represents an index to scroll inside the container.
-Each client will have its own iterator index to iterate through the container.
+The idea is to have a container that contains other objects inside
+A container is associated with an iterator that represents an index to scroll inside the container
+Each client will have its own iterator index to iterate through the container
 
 ## Use Case
 
 - When your data collection has a complex data structure but you want to hide its complexity from clients
 - You want to reduce duplication of the traversal code in your application
-- When you want to be able to traverse different data structures or when the types of these structures are unknown in advance.
+- When you want to be able to traverse different data structures or when the types of these structures are unknown in advance
 
 ## Participants
 
