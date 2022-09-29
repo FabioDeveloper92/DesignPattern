@@ -16,7 +16,7 @@ The objects that observe the publisher's changes will be the observer
 
 ## Use Case
 
--GUI toolkit
+- GUI toolkit
 - MVC architectural pattern
 - Messaging systems
 - Realtime systems
