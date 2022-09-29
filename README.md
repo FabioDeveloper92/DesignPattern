@@ -16,5 +16,6 @@ In this repository, I'll share different design pattern.
 - Chain of Responsibility [Code Example](https://github.com/FabioDeveloper92/DesignPattern/tree/main/ChainOfResponsability)
 - Command [Code Example](https://github.com/FabioDeveloper92/DesignPattern/tree/main/CommandPattern)
 - Iterator [Code Example](https://github.com/FabioDeveloper92/DesignPattern/tree/main/IteratorPattern)
+- Observer [Code Example](https://github.com/FabioDeveloper92/DesignPattern/tree/main/ObserverPattern)
 - Mediator [Code Example](https://github.com/FabioDeveloper92/DesignPattern/tree/main/MediatorPattern)
 - Memento [Code Example](https://github.com/FabioDeveloper92/DesignPattern/tree/main/MementoPattern)
