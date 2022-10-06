@@ -11,6 +11,7 @@ In this repository, I'll share different design pattern.
 ## Structural
 - Adapter [Code Example](https://github.com/FabioDeveloper92/DesignPattern/tree/main/AdapterPattern)
 - Bridge [Code Example](https://github.com/FabioDeveloper92/DesignPattern/tree/main/BridgePattern)
+- Composite [Code Example](https://github.com/FabioDeveloper92/DesignPattern/tree/main/CompositePattern)
 
 ## Behavioral
 - Chain of Responsibility [Code Example](https://github.com/FabioDeveloper92/DesignPattern/tree/main/ChainOfResponsability)
