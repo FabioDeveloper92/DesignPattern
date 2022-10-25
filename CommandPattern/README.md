@@ -14,9 +14,9 @@ In this way we configure a class with a command object that will be used to exec
 
 ## Use Case
 
-- A command must have a duration independent of the original request or, if you want to queue, specify and execute requests at different times.
-- Undo / redo operations are required. The execution of the command can be stored to reverse its effects. It is important that the Command class implement the undo and redo methods.
-- It's necessary to structure a system around high-level operations based on primitive operations.
+- A command must have a duration independent of the original request or, if you want to queue, specify and execute requests at different times
+- Undo / redo operations are required. The execution of the command can be stored to reverse its effects. It is important that the Command class implement the undo and redo methods
+- It's necessary to structure a system around high-level operations based on primitive operations
 
 ## Participants
 
@@ -34,4 +34,4 @@ In this way we configure a class with a command object that will be used to exec
 
 ## Cons
 
-- Increased number of classes for each single command, in a different view. It may not be preferred in some specific scenarios.
+- Increased number of classes for each single command, in a different view. It may not be preferred in some specific scenarios
