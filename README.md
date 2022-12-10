@@ -13,6 +13,7 @@ In this repository, I'll share different design pattern.
 - Adapter [Code Example](https://github.com/FabioDeveloper92/DesignPattern/tree/main/AdapterPattern)
 - Bridge [Code Example](https://github.com/FabioDeveloper92/DesignPattern/tree/main/BridgePattern)
 - Composite [Code Example](https://github.com/FabioDeveloper92/DesignPattern/tree/main/CompositePattern)
+- Decorator [Code Example](https://github.com/FabioDeveloper92/DesignPattern/tree/main/DecoratorPattern)
 
 ## Behavioral
 - Chain of Responsibility [Code Example](https://github.com/FabioDeveloper92/DesignPattern/tree/main/ChainOfResponsability)
