@@ -26,7 +26,7 @@ The clone method creates an object of the current class and passes all the value
 - Prototype, it defines an interface to clone itself
 - ConcretePrototype, it defines concrete classes that extend Prototype
 - Client, it takes care of calling the cloning method on the ConcretePrototype
-- 
+
 ## Pro
 
 - Independence of the instantiation method, client does not have to know what happens underneath
