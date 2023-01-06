@@ -23,3 +23,4 @@ In this repository, I'll share different design pattern.
 - Memento [Code Example](https://github.com/FabioDeveloper92/DesignPattern/tree/main/MementoPattern)
 - Observer [Code Example](https://github.com/FabioDeveloper92/DesignPattern/tree/main/ObserverPattern)
 - State [Code Example](https://github.com/FabioDeveloper92/DesignPattern/tree/main/StatePattern)
+- Strategy [Code Example](https://github.com/FabioDeveloper92/DesignPattern/tree/main/StrategyPattern)
