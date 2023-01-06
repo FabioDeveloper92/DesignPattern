@@ -20,7 +20,7 @@ The clone method creates an object of the current class and passes all the value
 - There is a need to hide the complexity of object creation from the client
 - Creating an object is a rather complex operation and therefore copying it is more convenient; when the necessary objects are similar to existing ones
 - We want to avoid the creation of many parallel factories as happens in Abstract Factory
-- 
+
 ## Participants
 
 - Prototype, it defines an interface to clone itself
