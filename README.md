@@ -14,6 +14,7 @@ In this repository, I'll share different design pattern.
 - Bridge [Code Example](https://github.com/FabioDeveloper92/DesignPattern/tree/main/BridgePattern)
 - Composite [Code Example](https://github.com/FabioDeveloper92/DesignPattern/tree/main/CompositePattern)
 - Decorator [Code Example](https://github.com/FabioDeveloper92/DesignPattern/tree/main/DecoratorPattern)
+- Facade [Code Example](https://github.com/FabioDeveloper92/DesignPattern/tree/main/FacadePattern)
 
 ## Behavioral
 - Chain of Responsibility [Code Example](https://github.com/FabioDeveloper92/DesignPattern/tree/main/ChainOfResponsability)
