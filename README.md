@@ -7,6 +7,7 @@ In this repository, I'll share different design pattern.
 - Builder [Code Example](https://github.com/FabioDeveloper92/DesignPattern/tree/main/BuilderPattern)
 - Factory Method [Code Example](https://github.com/FabioDeveloper92/DesignPattern/tree/main/FactoryMethod)
 - Prototype [Code Example](https://github.com/FabioDeveloper92/DesignPattern/tree/main/PrototypePattern)
+- Singleton [Code Example](https://github.com/FabioDeveloper92/DesignPattern/tree/main/SingletonPattern)
 
 
 ## Structural
