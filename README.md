@@ -16,6 +16,7 @@ In this repository, I'll share different design pattern.
 - Decorator [Code Example](https://github.com/FabioDeveloper92/DesignPattern/tree/main/DecoratorPattern)
 - Facade [Code Example](https://github.com/FabioDeveloper92/DesignPattern/tree/main/FacadePattern)
 - Flyweight [Code Example](https://github.com/FabioDeveloper92/DesignPattern/tree/main/FlyweightPattern)
+- Proxy [Code Example](https://github.com/FabioDeveloper92/DesignPattern/tree/main/ProxyPattern)
 
 ## Behavioral
 - Chain of Responsibility [Code Example](https://github.com/FabioDeveloper92/DesignPattern/tree/main/ChainOfResponsability)
