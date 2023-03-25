@@ -9,13 +9,13 @@ In this repository, I'll share different design pattern.
 - Prototype [Code Example](https://github.com/FabioDeveloper92/DesignPattern/tree/main/PrototypePattern)
 - Singleton [Code Example](https://github.com/FabioDeveloper92/DesignPattern/tree/main/SingletonPattern)
 
-
 ## Structural
 - Adapter [Code Example](https://github.com/FabioDeveloper92/DesignPattern/tree/main/AdapterPattern)
 - Bridge [Code Example](https://github.com/FabioDeveloper92/DesignPattern/tree/main/BridgePattern)
 - Composite [Code Example](https://github.com/FabioDeveloper92/DesignPattern/tree/main/CompositePattern)
 - Decorator [Code Example](https://github.com/FabioDeveloper92/DesignPattern/tree/main/DecoratorPattern)
 - Facade [Code Example](https://github.com/FabioDeveloper92/DesignPattern/tree/main/FacadePattern)
+- Flyweight [Code Example](https://github.com/FabioDeveloper92/DesignPattern/tree/main/FlyweightPattern)
 
 ## Behavioral
 - Chain of Responsibility [Code Example](https://github.com/FabioDeveloper92/DesignPattern/tree/main/ChainOfResponsability)
