@@ -2,6 +2,8 @@
 
 It's behavioral pattern, that allows you to isolate a set of algorithms outside the class that uses them, to ensure that the latter can use them interchangeably, making its behavior dynamic
 
+![Strategy Pattern](https://pbs.twimg.com/media/Fl38QX0WIAI1SxH?format=jpg&name=large)
+
 ## Problem
 
 There are some situations where it is necessary to dynamically change the algorithms used
