@@ -2,6 +2,8 @@
 
 It's a structural pattern that organizes objects in a tree structure, in which the nodes are composites and the leaves are simple objects.
 
+![Composite Pattern](https://pbs.twimg.com/media/FeZXnP5WAAgklBS?format=png&name=large)
+
 ## Problem
 
 When dealing with tree-structured data, it's often necessary to discriminate whether you are visiting a node or a leaf.
