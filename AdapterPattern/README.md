@@ -2,6 +2,8 @@
 
 Adapter pattern is a structural pattern that allows objects with different interfaces to collaborate.
 
+![Adapter Pattern](https://pbs.twimg.com/media/FPq9LgfWQAUUsno?format=png&name=large)
+
 ## Problem
 
 Whenever external libs are used in a project, whose interface isn't compatible with the existing application.
