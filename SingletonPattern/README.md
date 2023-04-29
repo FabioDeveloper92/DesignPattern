@@ -2,6 +2,8 @@
 
 It's a creational design pattern that allows the creation of a class that has only one instance and provide a global access point to it
 
+![Singleton PAttern](https://pbs.twimg.com/media/FpP88v0WIAQ76O6?format=png&name=large)
+
 ## Problem
 
 We need to have only one instance of a class, for example when we need to access a shared resource
