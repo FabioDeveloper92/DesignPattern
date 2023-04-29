@@ -2,6 +2,8 @@
 
 It's a behavioral design pattern that allows to define the operations of an element without having to modify it
 
+![Visitor Pattern](https://pbs.twimg.com/media/Fu4QnfdWwAMVIJb?format=jpg&name=large)
+
 ## Problem
 
 We have many unrelated classes with a constant request for new operations, it becomes difficult to implement a new subclass for each new operation
