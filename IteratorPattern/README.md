@@ -2,6 +2,8 @@
 
 It's a behavioral design pattern that an iterator is used to traverse a container and access the container's elements
 
+![Iterator](https://pbs.twimg.com/media/FWbqQWPXkAANm8x?format=png&name=large)
+
 ## Problem
 
 This pattern solves various problems related to access and navigation through the elements
