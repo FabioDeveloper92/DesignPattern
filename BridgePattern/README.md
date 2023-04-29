@@ -2,6 +2,8 @@
 
 It's a structural design pattern that decouples an abstraction from its implementation, so that the two can vary independently.
 
+![Bridge Pattern](https://pbs.twimg.com/media/FR7IwE6WYAEPQxv?format=jpg&name=large)
+
 ## Problem
 
 When an abstraction has several implementations, inheritance is usually used, but this mechanism will link the abstraction with its implementation permanently.
