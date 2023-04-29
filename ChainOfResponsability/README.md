@@ -1,6 +1,8 @@
-# Chain of Responsibility Pattern
+# Chain of Responsability Pattern
 
 It's behavioral pattern, that eparates the objects that invoke the requests from the objects that manage them, giving each one the possibility to manage these requests.
+
+![Chain of Responsability](https://pbs.twimg.com/media/FTnUYyYXwAARMe_?format=png&name=large)
 
 ## Problem
 
