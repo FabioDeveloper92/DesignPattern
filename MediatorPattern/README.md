@@ -2,6 +2,8 @@
 
 It's a behavioral pattern that encapsulates the logic with which several objects interact with each other, avoiding that they have to dialogue directly
 
+![Mediator Pattern](https://pbs.twimg.com/media/FYHlhvHXwAAJvsP?format=png&name=large)
+
 ## Problem
 
 Defining a set of objects that interact with each other by directly accessing and updating each other is not a flexible solution
