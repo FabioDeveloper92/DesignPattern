@@ -2,6 +2,8 @@
 
 It's a bahavioral pattern that allows an object to change its behavior at run-time according to the state it is in.
 
+![State Pattern](https://pbs.twimg.com/media/Ff7Ng8QWAAIRlcD?format=png&name=large)
+
 ## Problem
 
 We need to make an object change its behavior at run time, based on certain conditions.
