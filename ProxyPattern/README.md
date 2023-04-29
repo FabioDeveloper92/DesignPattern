@@ -2,6 +2,8 @@
 
 It's a structural pattern that provides an interface for objects that required resources and time to create it
 
+![Proxy Pattern](https://pbs.twimg.com/media/FsELQYsXsAAkuQB?format=png&name=large)
+
 ## Problem
 
 We need to get an object that consumes a lot of system resources
