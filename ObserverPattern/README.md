@@ -2,6 +2,8 @@
 
 It's a behavioral pattern that allows you to define a one-to-many dependency between objects, so that if an object changes its internal state, each of the dependent objects is automatically notified and updated
 
+![Observer Pattern](https://pbs.twimg.com/media/Fd1Ox6LUAAIaXdu?format=png&name=large)
+
 ## Problem
 
 We need to upgrade to all objects that depend on a given class
