@@ -2,6 +2,8 @@
 
 It's a behavioral pattern that allows you to isolate the portion of code that performs an action (possibly very complex) from the code that requires its execution; the action is encapsulated in the Command object.
 
+![Command Pattern](https://pbs.twimg.com/media/FUvaMsbWAAEdtQy?format=png&name=large)
+
 ## Problem
 
 We want to avoid matching a invoker to a particular request, so wired requests should be avoided.
