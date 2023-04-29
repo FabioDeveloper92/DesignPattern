@@ -2,6 +2,8 @@
 
 It's a structural design pattern that allows you to separate the variable part of a class from the part that can be reused, in such a way as to share the latter among different instances
 
+![Flyweight  Pattern](https://pbs.twimg.com/media/Fq8KmHlXgAI574l?format=jpg&name=large)
+
 ## Problem
 
 In some cases we need to generate a lot of instances of small classes to represent the data (mageri these instances differ only for some parameters)
