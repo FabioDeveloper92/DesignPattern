@@ -2,6 +2,8 @@
 
 It's a behavioral pattern that is used when you need to restore the state of an object to its previous state
 
+![Memento Pattern](https://pbs.twimg.com/media/FcoHCttWQAIlvrX?format=png&name=large)
+
 ## Problem
 
 We need to save the state of the object, and then want to restore it under certain conditions
