@@ -2,6 +2,8 @@
 
 It's a structural design pattern that allows you to add functionality or change the behavior of an object at runtime
 
+![Decorator Pattern](https://pbs.twimg.com/media/FjnuDQvXEAEr1zY?format=jpg&name=large)
+
 ## Problem
 
 When using object-oriented programming, inheritance is the model used to extend the functionality of the object
