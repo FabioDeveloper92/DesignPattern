@@ -2,6 +2,8 @@
 
 It's a creational pattern that designed to provide a flexible solution for building a complex object step by step.
 
+![Builder Pattern](https://pbs.twimg.com/media/FYruHdFX0AMN__H?format=png&name=large)
+
 ## Problem
 
 A complex object could require a laborious and detailed initialization.
