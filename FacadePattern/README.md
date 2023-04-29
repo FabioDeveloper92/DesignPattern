@@ -1,6 +1,6 @@
 # Facade Pattern
 
-It's a Structural design pattern that hides the complexity of a system and offers an interface to clients who want to access it client
+It's a structural design pattern that hides the complexity of a system and offers an interface to clients who want to access it client
 
 ![Facade Pattern](https://pbs.twimg.com/media/FoH99lQX0AM8SDX?format=jpg&name=large)
 
