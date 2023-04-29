@@ -2,6 +2,8 @@
 
 It's a behavioral design pattern that used to define the structure of an algorithm by delegating some detail steps to the subclasses
 
+![Template Method Pattern](https://pbs.twimg.com/media/FtwYN3HWcAAzzYi?format=png&name=large)
+
 ## Problem
 
 We have several classes that implement the same algorithm, using code that is very similar to each other, and in some cases it is duplicated
